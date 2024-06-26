@@ -1,0 +1,35 @@
+_repo: Molly-s-treachery_73856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    - Miller, Mrs. Alex. McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+    wikipedia: https://en.wikipedia.org/wiki/Mittie_Frances_Clarke_Point
+description: ''
+gutenberg_issued: '2024-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73856'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:779137
+pgterms:marc905: 20230226053209miller
+pgterms:marc906: '1886'
+pgterms:marc907: us
+production_note: Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aCleveland :$bThe Arthur Westbrook Company, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Molly's treachery
+url: http://www.gutenberg.org/ebooks/73856
